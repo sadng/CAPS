@@ -1,0 +1,25 @@
+
+<b>Floods:</b>
+<br>    FHADFIRM&.properties.ID
+<br>
+<b>Fires:</b>
+<br>    FRA&.properties.ID
+<br>
+<b>Tsunamis:</b>
+<br>    ETEZ&.properties.ID
+<br>    T1PCFZ3&.properties.ID
+<br>    TEZ&.properties.ID
+<br>    TSZ&.properties.ID
+<br>    TWH.properties.ID //
+<br>
+<b>Eruptions:</b>
+<br>
+<b>Earthquakes:</b>
+<br>    Magnitude # Earthquake
+
+// One click, figure out Leaflet One Feature Popup
+// Might need to remerge all data and just put a barrier to what data showcases.
+    .. Not a lot of data overlap in locations that aren't the coastal regions
+// Add address seach bar and code to only showcase within that realm. 
+// Better introduction and reference page.
+// Should I popup outside of the map? That will change need for full screen application.
